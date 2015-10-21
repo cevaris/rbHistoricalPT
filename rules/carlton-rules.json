@@ -1,0 +1,104 @@
+{
+  "rules": [
+    {
+      "value": "#Methow",
+      "tag": "#Methow"
+    },
+    {
+      "value": "#brewster",
+      "tag": "#brewster"
+    },
+    {
+      "value": "#carltoncomplex",
+      "tag": "#carltoncomplex"
+    },
+    {
+      "value": "#chelan",
+      "tag": "#chelan"
+    },
+    {
+      "value": "#cougerflats",
+      "tag": "#cougarflats"
+    },
+    {
+      "value": "#frenchcreek",
+      "tag": "#frenchcreek"
+    },
+    {
+      "value": "#lakechelan",
+      "tag": "#lakechelan"
+    },
+    {
+      "value": "#pateros",
+      "tag": "#pateros"
+    },
+    {
+      "value": "#paterosfire",
+      "tag": "#paterosfire"
+    },
+    {
+      "value": "Buzzard Lake Evac",
+      "tag": "Buzzard Lake Evac"
+    },
+    {
+      "value": "Buzzard Lake Evacuation",
+      "tag": "Buzzard Lake Evacuation"
+    },
+    {
+      "value": "Carlton Complex",
+      "tag": "Carlton Complex"
+    },
+    {
+      "value": "Cougar Flats Fire",
+      "tag": "Cougar Flats Fire"
+    },
+    {
+      "value": "French Creek Fire",
+      "tag": "French Creek Fire"
+    },
+    {
+      "value": "Methow",
+      "tag": "Methow"
+    },
+    {
+      "value": "Twisp",
+      "tag": "Twisp"
+    },
+    {
+      "value": "Winthrop",
+      "tag": "Winthrop"
+    },
+    {
+      "value": "carlton evac",
+      "tag": "carlton evac"
+    },
+    {
+      "value": "carlton evacuation",
+      "tag": "carlton evacuation"
+    },
+    {
+      "value": "firestorm2014",
+      "tag": "firestorm2014"
+    },
+    {
+      "value": "okanogan",
+      "tag": "okanogan"
+    },
+    {
+      "value": "okanogan flooding",
+      "tag": "okanogan flooding"
+    },
+    {
+      "value": "okanogan floods",
+      "tag": "okanogan floods"
+    },
+    {
+      "value": "tonasket",
+      "tag": "tonasket"
+    },
+    {
+      "value": "wafire",
+      "tag": "wafire"
+    }
+  ]
+}
